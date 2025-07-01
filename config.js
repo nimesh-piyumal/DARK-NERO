@@ -6,6 +6,6 @@ module.exports = {
     AUTO_REPLY: false,
     READ_MSG: false,
     ANTI_LINK: true,
-    GENUX_API_KEY: process.env.GENUX_API_KEY || 'GENUX-XGSGG',
+    GENUX_API_KEY: process.env.GENUX_API_KEY || 'CN-XGSGG',
     OWNER_NUMBER: process.env.OWNER_NUMBER || ['94771029271', '94786802371'],
 }
