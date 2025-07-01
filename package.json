@@ -20,6 +20,7 @@
     "restart": "pm2 restart DARK-NERO"
   },
   "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@genuxofficial/baileys": "^2.0.0",
     "@hapi/boom": "^10.0.1",
     "adm-zip": "^0.5.16",
