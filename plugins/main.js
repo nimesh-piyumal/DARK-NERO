@@ -5,6 +5,6 @@ exec({
     react: '📚',
     catogory: 'general'
 }, async (darknero, mek, m, { from, reply, pushname }) => {
-    const caption = `i am alive`
+    const caption = `I AM ALIVE !`
     await darknero.sendMessage(from, { text: caption }, { quoted: m })
 });
